@@ -13,7 +13,7 @@ class Main {
       }
       int i = 0;
       while (i<15) {
-      System.out.println(names[i] + seats[i]);
+      System.out.println(names[i] + " sits in seat " + seats[i]);
       i++;
 
     }
